@@ -33,7 +33,7 @@ By default, if no argument is given, the REST API service will be started.
 
 The REST API can be accessed through port 8080 on the localhost at /taxi 
 
-e.g. localhost:8080/taxi?<pikcup>&<dropoff>&[seats]
+e.g. localhost:8080/taxi?\<pickup\>&\<dropoff\>&[seats]
 
 if no seats parameter is given, all vehicle types will be returned
 
