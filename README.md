@@ -1,5 +1,5 @@
 # Technical Test
-This project requires Maven to be installed, Installation instructions can be found at https://maven.apache.org/install.html
+This project requires Maven to be installed. Installation instructions can be found at https://maven.apache.org/install.html
 
 To build and run this project, run the command 'mvn package' in the root directory of the project.
 
